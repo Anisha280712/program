@@ -12,7 +12,7 @@ dog2 = Dog("German Shepherd", "Black and Tan")
 
 print("Dog 1 Details:")
 print("Animal:", Dog.animal)
-print("Breed:", dog1.bbreed)
+print("Breed:", dog1.breed)
 print("Colour:", dog1.colour)
 
 print("\nDog 2 Details:")
