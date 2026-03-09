@@ -11,6 +11,7 @@ class A :
             return "Both are equal"
         else:
             return "Not equal"
+    
 ob1 =A(2)
 ob2 =A(3)
 print(" Passed Values :", ob1.a, ob2.a)
