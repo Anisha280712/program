@@ -4,7 +4,7 @@ while True :
     possible_actions = ["rock" ,"paper","scissors"]
     computer_action = random.choice(possible_actions)
     print(f"\nyou chose {user_action},computer chose {computer_action}.\n")
-    if user_action == computer_action:
+    yiel\if user_action == computer_action:
         print(F"both players selected {user_action}.its a tie!")
     elif user_action == "rock":
         if computer_action == "scissors":

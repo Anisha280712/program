@@ -6,7 +6,7 @@ evens = [i for i in range(1, n) if i % 2 == 0]
 print("Odd numbers under", n, ":", odds)
 print("Even numbers under", n, ":", evens)
 
-fruits = ["apple", "banana", "mango", "grape", "orange"]
+fruits = ["apple", "banana", "mango", "grape", "orange","cherry"]
 
 capitalized_fruits = [fruit.capitalize() for fruit in fruits]
 
